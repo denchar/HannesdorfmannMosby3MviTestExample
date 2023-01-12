@@ -90,7 +90,9 @@ class MainActivity() : MviActivity<MainView, MainPresenter>(), MainView {
             "https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/pia21421.jpg",
             "https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/potw2002a.jpg",
             "https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/pia22692.jpg",
-            "https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/bd20307_fnl_lynettecook_0.jpg"
+            "https://www.nasa.gov/sites/default/files/styles/image_card_4x3_ratio/public/thumbnails/image/bd20307_fnl_lynettecook_0.jpg",
+            "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/_mars.nasa_.gov_insight-raw-images_surface_sol_1436_icc_c000m1436_724026383edr_f0000_0200m_1042.png",
+            "https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/lc09_l1tp_013042_20220118_b432_bahamas1x1.jpeg"
         )
     }
 
